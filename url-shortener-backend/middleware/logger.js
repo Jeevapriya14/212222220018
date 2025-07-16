@@ -17,7 +17,7 @@ const logEvent = async (stack, level, pkg, message) => {
       }
     );
   } catch (error) {
-    // handle error silently or log if needed
+    
   }
 };
 
